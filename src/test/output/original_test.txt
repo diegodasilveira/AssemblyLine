@@ -1,0 +1,25 @@
+Line 1
+09:00 - Pieces washing 45min
+09:45 - Cutting of steel sheets 60min
+10:45 - Austenpera (Heat treatment) 30min
+11:15 - Tempering sub-zero (Heat treatment) 45min
+12:00 - Lunch
+13:00 - Setup of lock and control device 45min
+13:45 - Safety sensor assembly 60min
+14:45 - Axis calibration 30min
+15:15 - Steel bearing assembly 45min
+16:00 - Assembly line cooling - maintenance
+16:05 - Nitriding process 45min
+16:50 - Labor Gymnastics Activities
+Line 2
+09:00 - Left stabilizer bar alignment 30min
+09:30 - Injection subsystem assembly 60min
+10:30 - Compliance check 30min
+11:00 - Navigation subsystem assembly 60min
+12:00 - Lunch
+13:00 - Torque converter subsystem calibration 60min
+14:00 - Right stabilizer bar alignment 30min
+14:30 - Seal installation 45min
+15:15 - Application of decals 30min
+15:45 - Monitoring subsystem assembly 30min
+16:15 - Labor Gymnastics Activities

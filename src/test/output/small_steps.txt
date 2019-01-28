@@ -1,0 +1,54 @@
+Line 1
+09:00 - A 15min
+09:15 - B 15min
+09:30 - C 15min
+09:45 - D 15min
+10:00 - E 15min
+10:15 - F 15min
+10:30 - G 15min
+10:45 - H 15min
+11:00 - I 15min
+11:15 - J 15min
+11:30 - K 15min
+11:45 - L 15min
+12:00 - Lunch
+13:00 - Q 15min
+13:15 - R 15min
+13:30 - S 15min
+13:45 - T 15min
+14:00 - U 15min
+14:15 - V 15min
+14:30 - X 15min
+14:45 - Z 15min
+15:00 - AA 15min
+15:15 - AB 15min
+15:30 - AC 15min
+15:45 - AD 15min
+16:00 - Labor Gymnastics Activities
+Line 2
+09:00 - AE 15min
+09:15 - AF 15min
+09:30 - AG 15min
+09:45 - AH 15min
+10:00 - AI 15min
+10:15 - AJ 15min
+10:30 - AK 15min
+10:45 - AL 15min
+11:00 - AM 15min
+11:15 - AN 15min
+11:30 - AO 15min
+11:45 - AP 15min
+12:00 - Lunch
+13:00 - AQ 15min
+13:15 - AR 15min
+13:30 - AS 15min
+13:45 - AT 15min
+14:00 - AU 15min
+14:15 - AV 15min
+14:30 - AX 15min
+14:45 - AZ 15min
+15:00 - M 15min
+15:15 - N 15min
+15:30 - O 15min
+15:45 - P 15min
+16:00 - Labor Gymnastics Activities

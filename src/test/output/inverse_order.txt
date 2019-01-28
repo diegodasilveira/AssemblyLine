@@ -1,0 +1,8 @@
+Line 1
+09:00 - Three 175min
+11:55 - One 5min
+12:00 - Lunch
+13:00 - Two 5min
+13:05 - Four 175min
+16:00 - Five 10min
+16:10 - Labor Gymnastics Activities
